@@ -238,7 +238,6 @@
 *.luciano-avila.workers.dev
 *.marsello.io
 *.Sharepointfiletransfer.top
-*.ncv.microsoft.com
 *.mbtct.com
 *.kontactr.com
 *.fnfescrowco.com
