@@ -3795,7 +3795,6 @@
 *.transporth.ec
 *.toowoombabsb.org.au
 *.todotamps.online
-*.tinyurl.com
 *.tiny.one
 *.timein.com.au
 *.tiendasoler.com
